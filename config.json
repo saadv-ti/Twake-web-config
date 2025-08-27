@@ -1,0 +1,12 @@
+{
+  "application_name": "Twake Chat",
+  "application_welcome_message": "Bem-vindo ao Twake Chat!",
+  "default_homeserver": "matrix.chatsa.adv.br",
+  "homeserver": "https://matrix.chatsa.adv.br/",
+  "privacy_url": "https://twake.app/en/privacy/",
+  "render_html": true,
+  "hide_redacted_events": true,
+  "hide_unknown_events": true,
+  "app_grid_dashboard_available": true,
+  "enable_logs": true
+}
